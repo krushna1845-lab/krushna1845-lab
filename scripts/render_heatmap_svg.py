@@ -23,7 +23,7 @@ def main() -> None:
     current = start
     for index in range(371):
         week, weekday = divmod(index, 7)
-        x, y = 106 + week * 14, 54 + weekday * 18
+        x, y = 106 + week * 14, 84 + weekday * 18
         level = max(0, min(5, days.get(current.isoformat(), 0)))
         delay = min(2.8, (week + weekday) * 0.035)
         cells.append(
@@ -32,13 +32,13 @@ def main() -> None:
         current += timedelta(days=1)
 
     active_days = sum(1 for level in days.values() if level > 0)
-    svg = f'''<svg xmlns="http://www.w3.org/2000/svg" width="900" height="210" viewBox="0 0 900 210" role="img" aria-label="GitHub contribution heatmap">
-  <rect width="900" height="210" rx="14" fill="#0d1117" stroke="#30363d"/>
+    svg = f'''<svg xmlns="http://www.w3.org/2000/svg" width="900" height="248" viewBox="0 0 900 248" role="img" aria-label="GitHub contribution heatmap">
+  <rect width="900" height="248" rx="14" fill="#0d1117" stroke="#30363d"/>
   <text x="28" y="32" fill="#e6edf3" font-family="ui-sans-serif, system-ui" font-size="17" font-weight="600">Contribution activity</text>
   <text x="28" y="58" fill="#8b949e" font-family="ui-monospace, monospace" font-size="13">{active_days} active contribution days in the last year</text>
-  <g fill="#8b949e" font-family="ui-monospace, monospace" font-size="11"><text x="28" y="62">Sun</text><text x="28" y="98">Tue</text><text x="28" y="134">Thu</text><text x="28" y="170">Sat</text></g>
+  <g fill="#8b949e" font-family="ui-monospace, monospace" font-size="11"><text x="28" y="94">Sun</text><text x="28" y="130">Tue</text><text x="28" y="166">Thu</text><text x="28" y="202">Sat</text></g>
   <g>{''.join(cells)}</g>
-  <g font-family="ui-monospace, monospace" font-size="11" fill="#8b949e"><text x="720" y="192">Less</text>{''.join(f'<rect x="{766 + i * 17}" y="182" width="11" height="11" rx="2" fill="{colour}"/>' for i, colour in enumerate(PALETTE))}<text x="871" y="192">More</text></g>
+  <g font-family="ui-monospace, monospace" font-size="11" fill="#8b949e"><text x="720" y="230">Less</text>{''.join(f'<rect x="{766 + i * 17}" y="220" width="11" height="11" rx="2" fill="{colour}"/>' for i, colour in enumerate(PALETTE))}<text x="871" y="230">More</text></g>
   <style>.cell {{ opacity: 0; transform: translateY(5px); animation: reveal .35s ease-out forwards; }} @keyframes reveal {{ to {{ opacity: 1; transform: translateY(0); }} }}</style>
 </svg>'''
     OUTPUT.parent.mkdir(parents=True, exist_ok=True)
