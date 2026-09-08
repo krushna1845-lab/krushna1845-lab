@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-label="Krushna Manore — Backend Engineering">
+  <defs>
+    <linearGradient id="background" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#0d1117"/><stop offset=".56" stop-color="#16112b"/><stop offset="1" stop-color="#24114d"/></linearGradient>
+    <linearGradient id="accent" x1="0" x2="1"><stop stop-color="#a78bfa"/><stop offset="1" stop-color="#60a5fa"/></linearGradient>
+    <filter id="glow"><feGaussianBlur stdDeviation="5" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <pattern id="grid" width="34" height="34" patternUnits="userSpaceOnUse"><path d="M 34 0 L 0 0 0 34" fill="none" stroke="#ffffff" stroke-opacity=".045"/></pattern>
+  </defs>
+  <rect width="1200" height="320" rx="18" fill="url(#background)"/>
+  <rect width="1200" height="320" rx="18" fill="url(#grid)"/>
+  <path d="M0 261 C210 198 361 321 572 239 S930 174 1200 251" fill="none" stroke="#8b5cf6" stroke-opacity=".18" stroke-width="2"/>
+  <path d="M0 282 C235 213 426 327 628 259 S983 196 1200 270" fill="none" stroke="#60a5fa" stroke-opacity=".12" stroke-width="2"/>
+  <g transform="translate(64 54)">
+    <rect width="70" height="70" rx="18" fill="#a78bfa" fill-opacity=".12" stroke="#a78bfa" stroke-opacity=".65"/>
+    <path d="M21 28h12v-8h6v8h10v6H39v8h-6v-8H21zm0 20h28v6H21z" fill="url(#accent)"/>
+    <text x="0" y="112" fill="#a78bfa" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="13" letter-spacing="2">ENGINEERING PROFILE</text>
+    <text x="0" y="157" fill="#f0f6fc" font-family="ui-sans-serif, system-ui, sans-serif" font-size="39" font-weight="700">Krushna Manore</text>
+    <text x="0" y="190" fill="#c9d1d9" font-family="ui-sans-serif, system-ui, sans-serif" font-size="18">Backend Engineering · Java · Spring Boot · Secure Systems</text>
+    <rect x="0" y="216" width="348" height="32" rx="16" fill="#a78bfa" fill-opacity=".13"/>
+    <text x="16" y="237" fill="#d8b4fe" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="13">OPEN TO SOFTWARE ENGINEERING INTERNSHIPS</text>
+  </g>
+  <g transform="translate(852 72)" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="13">
+    <path d="M25 42H89M89 42l25-20M89 42l25 20M114 22h64M114 62h64M178 42l31-20M178 42l31 20" fill="none" stroke="#a78bfa" stroke-opacity=".65" stroke-width="2"/>
+    <circle cx="25" cy="42" r="18" fill="#18132c" stroke="#a78bfa"/><circle cx="89" cy="42" r="18" fill="#18132c" stroke="#a78bfa"/><circle cx="178" cy="42" r="18" fill="#18132c" stroke="#60a5fa"/><circle cx="226" cy="22" r="18" fill="#18132c" stroke="#60a5fa"/><circle cx="226" cy="62" r="18" fill="#18132c" stroke="#60a5fa"/>
+    <text x="9" y="47" fill="#d8b4fe">API</text><text x="73" y="47" fill="#d8b4fe">AUTH</text><text x="161" y="47" fill="#93c5fd">DATA</text><text x="206" y="27" fill="#93c5fd">CI</text><text x="200" y="67" fill="#93c5fd">OPS</text>
+    <rect x="0" y="118" width="284" height="1" fill="#a78bfa" fill-opacity=".25"/>
+    <text x="0" y="151" fill="#8b949e">DESIGNING SOFTWARE THAT IS</text>
+    <text x="0" y="182" fill="#e6edf3" font-size="18">clear · secure · maintainable</text>
+    <circle cx="8" cy="216" r="4" fill="#a78bfa" filter="url(#glow)"/><text x="23" y="221" fill="#a78bfa">BUILDING IN PUBLIC</text>
+  </g>
+</svg>

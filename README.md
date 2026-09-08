@@ -1,138 +1,149 @@
 <div align="center">
 
-# Krushna Manore
+<img src="./assets/profile-banner.svg" width="1200" alt="Krushna Manore — Backend Engineering" />
 
-### Aspiring Software Engineer · Java Backend · Secure API Systems
+<br />
 
-[![GitHub](https://img.shields.io/badge/GitHub-krushna1845--lab-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/krushna1845-lab)
+[![GitHub](https://img.shields.io/badge/GitHub-krushna1845--lab-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/krushna1845-lab)
 [![Email](https://img.shields.io/badge/Email-krushna1845%40gmail.com-6D28D9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:krushna1845@gmail.com)
-
-<sub>B.Tech Computer Engineering · ICEM Pune · Pune, India</sub>
-
-<br /><br />
-
-<h3><code>krushna@github:~ $ ./contributions.sh</code></h3>
-<img src="./assets/contribution-heatmap.svg" width="900" alt="Krushna's contribution heatmap" />
-
-<br /><br />
-
-<h3><code>krushna@github:~ $ whoami</code></h3>
-<img src="./assets/terminal-card.svg" width="900" alt="Terminal profile card" />
+[![Location](https://img.shields.io/badge/Pune-India-7C3AED?style=for-the-badge&logo=googlemaps&logoColor=white)](https://www.google.com/maps?q=Pune,+India)
 
 </div>
 
----
+<br />
 
-## Professional Snapshot
+## Professional Summary
 
-I'm a **Computer Engineering student at Indira College of Engineering and Management, Pune**, building a foundation in Java backend development and practical software engineering. My focus is on writing maintainable code, designing clear API contracts, modelling relational data, and applying security-minded thinking to everyday development.
+I am a **Computer Engineering student at Indira College of Engineering and Management, Pune**, developing practical backend systems with **Java and Spring Boot**. I care about the engineering details that make software dependable: clear API contracts, maintainable code, relational data modelling, secure defaults, and repeatable delivery.
 
-| Focus | Current direction |
+My current work combines Java backend development with hands-on security exploration. I am actively preparing for **Software Engineering Internships** and **Backend / Java development roles** where I can contribute, learn from strong engineering teams, and ship useful software.
+
+| What I bring | Current focus |
 | - | - |
-| Backend engineering | Java, Spring Boot, REST APIs, authentication, and MySQL |
-| Security engineering | Applied antivirus concepts: hashing, file monitoring, and local system utilities |
-| Cloud & delivery | Docker, Kubernetes, Git, and CI/CD fundamentals |
-| Problem solving | Data structures, algorithms, and backend system-design practice |
-
-- **Building:** JWT Authentication System and E-Commerce Backend
-- **Learning:** Spring Security, Spring Data JPA, Docker, Kubernetes, and scalable-system fundamentals
-- **Ask me about:** Java, REST APIs, relational databases, and practical security projects
-- **Seeking:** Software Engineering Internships and Backend / Java development roles
+| **Backend foundation** | Java, Spring Boot, REST APIs, JWT authentication, Maven |
+| **Data & design** | MySQL, SQLite, relational modelling, API error handling |
+| **Security mindset** | Authentication, input validation, hash-based detection, file monitoring |
+| **Delivery mindset** | Docker, Kubernetes fundamentals, Git, CI/CD exploration |
 
 ---
 
-## Stack
+## Engineering Profile
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,spring,python,mysql,sqlite,docker,kubernetes,git,github,maven,postman,vscode,idea&theme=dark" alt="Java, Spring, Python, MySQL, SQLite, Docker, Kubernetes, Git, GitHub, Maven, Postman, VS Code, and IntelliJ IDEA" />
+<img src="./assets/terminal-card.svg" width="900" alt="Krushna's terminal engineering profile" />
 
 </div>
 
-| Area | Technologies |
+<br />
+
+```text
+NOW        Building Java backend depth through Spring Boot projects
+NEXT       Applying Spring Security, Data JPA, Docker, and deployment practices
+EXPLORING  Backend system design, microservices patterns, and cloud fundamentals
+OPEN TO    Software Engineering Internships · Java / Backend development roles
+```
+
+---
+
+## Technical Toolkit
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=java,spring,python,mysql,sqlite,docker,kubernetes,git,github,maven,postman,vscode,idea&theme=dark" alt="Java, Spring Boot, Python, MySQL, SQLite, Docker, Kubernetes, Git, GitHub, Maven, Postman, VS Code, and IntelliJ IDEA" />
+
+</div>
+
+| Area | Tools & concepts |
 | - | - |
-| Backend | Java, Spring Boot, REST APIs, JWT, Maven |
-| Data | MySQL, SQLite, relational data modelling |
-| DevOps | Docker, Kubernetes, GitHub Actions fundamentals |
-| Security | Authentication, authorization, input validation, file-hash detection |
-| Applied Python | PySide6, Watchdog, psutil, OpenCV |
+| **Backend** | Java, Spring Boot, RESTful APIs, JWT, Maven |
+| **Databases** | MySQL, SQLite, schema design, CRUD operations |
+| **DevOps** | Docker, Kubernetes fundamentals, Git, GitHub Actions |
+| **Security** | Authentication, validation, hashing, file monitoring |
+| **Applied Python** | PySide6, Watchdog, psutil, OpenCV |
+| **Core engineering** | OOP, DSA, debugging, system-design fundamentals |
 
 ---
 
 ## Featured Work
 
-<details>
-<summary><b>🛡️ MidBrain Antivirus · Python / PySide6</b></summary>
-
-<br />
-
-An educational cybersecurity desktop application focused on practical antivirus concepts. It implements hash-based malware detection, real-time file monitoring, junk-file cleanup, RAM optimisation, and a modern PySide6 interface.
-
-**Stack:** Python, PySide6, Watchdog, psutil, and hashlib
-**Repository:** [MidBrain_Antivirus](https://github.com/krushna1845-lab/MidBrain_Antivirus)
-
-</details>
-
-<details>
-<summary><b>☕ Core Java · Java fundamentals</b></summary>
-
-<br />
-
-Java practice repository supporting continued work on core language fundamentals and clean coding habits.
-
-**Repository:** [Core-Java](https://github.com/krushna1845-lab/Core-Java)
-
-</details>
-
-<details>
-<summary><b>🚀 Java Backend Journey · ongoing learning</b></summary>
-
-<br />
-
-An ongoing repository for the path from Java fundamentals to production-oriented backend development.
-
-**Repository:** [java-backend-journey](https://github.com/krushna1845-lab/java-backend-journey)
-
-</details>
-
-<details>
-<summary><b>🔐 In progress · JWT Authentication & E-Commerce Backend</b></summary>
-
-<br />
-
-Two backend projects currently in development. They will be linked here after public repositories, documentation, and runnable setup instructions are ready.
-
-</details>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🛡️ MidBrain Antivirus</h3>
+      <p>An educational desktop security project that explores hash-based malware detection, real-time file monitoring, junk-file cleanup, RAM optimisation, and local threat handling through a PySide6 interface.</p>
+      <p><b>Python · PySide6 · Watchdog · psutil · hashlib</b></p>
+      <a href="https://github.com/krushna1845-lab/MidBrain_Antivirus">View repository →</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>☕ Core Java</h3>
+      <p>A focused Java practice repository supporting continued development of language fundamentals, object-oriented thinking, and clean problem-solving habits.</p>
+      <p><b>Java · OOP · Core language fundamentals</b></p>
+      <a href="https://github.com/krushna1845-lab/Core-Java">View repository →</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🚀 Java Backend Journey</h3>
+      <p>An ongoing learning repository documenting the path from Java fundamentals to production-oriented backend development.</p>
+      <p><b>Java · Backend learning · Engineering practice</b></p>
+      <a href="https://github.com/krushna1845-lab/java-backend-journey">View repository →</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🔐 In Development</h3>
+      <p>JWT Authentication System and E-Commerce Backend are currently being built. They will be added here once their source, documentation, and setup instructions are public.</p>
+      <p><b>Spring Boot · MySQL · REST APIs · JWT</b></p>
+      <a href="#current-learning-roadmap">Follow the roadmap →</a>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## Education & Credentials
+## Current Learning Roadmap
 
-| Item | Detail |
+<a id="current-learning-roadmap"></a>
+
+| Priority | Focus | Outcome |
+| :-: | - | - |
+| 01 | Spring Security & JWT | Secure APIs with sound authentication and authorization flows |
+| 02 | Spring Data JPA & MySQL | Clean persistence layers and reliable relational models |
+| 03 | Docker & Kubernetes | Portable local environments and deployment fundamentals |
+| 04 | DSA & system design | Stronger problem solving and scalable backend reasoning |
+| 05 | Testing & observability | Better confidence through JUnit, structured errors, and Actuator exploration |
+
+---
+
+## Education & Learning Credentials
+
+| Credential | Detail |
 | - | - |
-| B.Tech | Computer Engineering, Indira College of Engineering and Management, Pune |
-| Diploma | Computer Engineering, Guru Gobind Singh Polytechnic (2022–2025) |
-| Learning credentials | J.P. Morgan job simulation, Google Machine Learning Crash Course, Generative AI course |
+| **B.Tech — Computer Engineering** | Indira College of Engineering and Management, Pune |
+| **Diploma — Computer Engineering** | Guru Gobind Singh Polytechnic, 2022–2025 |
+| **J.P. Morgan** | Job simulation / certification program |
+| **Google MLCC** | Machine Learning Crash Course completion |
+| **Generative AI** | Dedicated fundamentals and applied-use-cases course |
 
 ---
 
-## Current Focus
-
-```text
-Spring Boot Security     ████████░░  building depth
-Docker & Kubernetes      ██████░░░░  learning deployment basics
-System Design            ██████░░░░  practising scalable backend patterns
-Data Structures          ███████░░░  solving consistently
-```
-
-## What I Value
-
-Clear documentation, predictable APIs, secure defaults, meaningful tests, and steady iteration. I aim to make every public project easy for another developer or recruiter to understand in a few minutes.
-
----
+## Contribution Activity
 
 <div align="center">
 
-<i>Clean APIs, solid backends, and a security-minded eye for detail.</i>
+<img src="./assets/contribution-heatmap.svg" width="900" alt="Krushna's contribution activity" />
+
+</div>
+
+---
+
+## Principles I Work By
+
+> **Make the next engineer successful.** I value clear naming, small focused changes, useful documentation, safe defaults, and code that is straightforward to test and maintain.
+
+<div align="center">
+
+### Let’s build dependable software.
+
+[![Email Krushna](https://img.shields.io/badge/Contact%20me-krushna1845%40gmail.com-A78BFA?style=for-the-badge&logo=gmail&logoColor=white)](mailto:krushna1845@gmail.com)
 
 </div>
