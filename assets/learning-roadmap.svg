@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="220" viewBox="0 0 1200 220" role="img" aria-label="Learning roadmap for backend engineering">
+  <defs><linearGradient id="road" x1="0" x2="1"><stop stop-color="#7c3aed"/><stop offset="1" stop-color="#60a5fa"/></linearGradient></defs>
+  <rect width="1200" height="220" rx="16" fill="#0d1117" stroke="#30363d"/>
+  <text x="38" y="38" fill="#f0f6fc" font-family="ui-sans-serif, system-ui, sans-serif" font-size="17" font-weight="700">Backend engineering roadmap</text>
+  <text x="38" y="60" fill="#8b949e" font-family="ui-monospace, monospace" font-size="12">Current learning priorities, ordered by practical impact</text>
+  <path d="M94 112H1106" stroke="url(#road)" stroke-width="3" stroke-linecap="round"/>
+  <g font-family="ui-sans-serif, system-ui, sans-serif">
+    <g transform="translate(94 112)"><circle r="19" fill="#7c3aed"/><text y="5" text-anchor="middle" fill="#fff" font-weight="700" font-size="12">01</text><text x="0" y="48" text-anchor="middle" fill="#f0f6fc" font-size="15" font-weight="700">Secure APIs</text><text x="0" y="68" text-anchor="middle" fill="#8b949e" font-size="12">Spring Security &amp; JWT</text></g>
+    <g transform="translate(431 112)"><circle r="19" fill="#6d4ed8"/><text y="5" text-anchor="middle" fill="#fff" font-weight="700" font-size="12">02</text><text x="0" y="48" text-anchor="middle" fill="#f0f6fc" font-size="15" font-weight="700">Data Layer</text><text x="0" y="68" text-anchor="middle" fill="#8b949e" font-size="12">JPA &amp; MySQL</text></g>
+    <g transform="translate(769 112)"><circle r="19" fill="#527fe2"/><text y="5" text-anchor="middle" fill="#fff" font-weight="700" font-size="12">03</text><text x="0" y="48" text-anchor="middle" fill="#f0f6fc" font-size="15" font-weight="700">Delivery</text><text x="0" y="68" text-anchor="middle" fill="#8b949e" font-size="12">Docker &amp; Kubernetes</text></g>
+    <g transform="translate(1106 112)"><circle r="19" fill="#60a5fa"/><text y="5" text-anchor="middle" fill="#fff" font-weight="700" font-size="12">04</text><text x="0" y="48" text-anchor="middle" fill="#f0f6fc" font-size="15" font-weight="700">Architecture</text><text x="0" y="68" text-anchor="middle" fill="#8b949e" font-size="12">Systems &amp; design</text></g>
+  </g>
+</svg>

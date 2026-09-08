@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="176" viewBox="0 0 1200 176" role="img" aria-label="Engineering workflow: clarify, build, verify, document">
+  <rect width="1200" height="176" rx="16" fill="#0d1117" stroke="#30363d"/>
+  <text x="38" y="37" fill="#f0f6fc" font-family="ui-sans-serif, system-ui, sans-serif" font-size="17" font-weight="700">How I approach engineering work</text>
+  <text x="38" y="59" fill="#8b949e" font-family="ui-monospace, monospace" font-size="12">A simple loop for reliable, understandable software</text>
+  <g transform="translate(38 91)" font-family="ui-sans-serif, system-ui, sans-serif">
+    <g><rect width="236" height="54" rx="10" fill="#21183a" stroke="#7c3aed"/><text x="18" y="23" fill="#c4b5fd" font-family="ui-monospace, monospace" font-size="11">01 / CLARIFY</text><text x="18" y="42" fill="#f0f6fc" font-size="14">Understand the problem</text></g>
+    <path d="M251 27h44" stroke="#6b7280" stroke-width="2"/><path d="M290 22l8 5-8 5" fill="none" stroke="#6b7280" stroke-width="2"/>
+    <g transform="translate(314)"><rect width="236" height="54" rx="10" fill="#18233c" stroke="#3b82f6"/><text x="18" y="23" fill="#93c5fd" font-family="ui-monospace, monospace" font-size="11">02 / BUILD</text><text x="18" y="42" fill="#f0f6fc" font-size="14">Implement focused solutions</text></g>
+    <path d="M565 27h44" stroke="#6b7280" stroke-width="2"/><path d="M604 22l8 5-8 5" fill="none" stroke="#6b7280" stroke-width="2"/>
+    <g transform="translate(628)"><rect width="236" height="54" rx="10" fill="#17312b" stroke="#10b981"/><text x="18" y="23" fill="#6ee7b7" font-family="ui-monospace, monospace" font-size="11">03 / VERIFY</text><text x="18" y="42" fill="#f0f6fc" font-size="14">Test assumptions and edges</text></g>
+    <path d="M879 27h44" stroke="#6b7280" stroke-width="2"/><path d="M918 22l8 5-8 5" fill="none" stroke="#6b7280" stroke-width="2"/>
+    <g transform="translate(942)"><rect width="220" height="54" rx="10" fill="#312316" stroke="#f59e0b"/><text x="18" y="23" fill="#fcd34d" font-family="ui-monospace, monospace" font-size="11">04 / DOCUMENT</text><text x="18" y="42" fill="#f0f6fc" font-size="14">Make handoff easy</text></g>
+  </g>
+</svg>

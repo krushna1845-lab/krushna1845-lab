@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="196" viewBox="0 0 1200 196" role="img" aria-label="Backend, security, and delivery capabilities">
+  <defs>
+    <linearGradient id="line" x1="0" x2="1"><stop stop-color="#a78bfa"/><stop offset="1" stop-color="#60a5fa"/></linearGradient>
+  </defs>
+  <rect width="1200" height="196" rx="16" fill="#0d1117" stroke="#30363d"/>
+  <rect x="0" y="0" width="1200" height="4" rx="2" fill="url(#line)"/>
+  <g font-family="ui-sans-serif, system-ui, sans-serif">
+    <g transform="translate(42 37)">
+      <rect width="344" height="122" rx="12" fill="#161b22" stroke="#30363d"/>
+      <circle cx="35" cy="34" r="17" fill="#a78bfa" fill-opacity=".16"/><path d="M28 34h14m-7-7v14" stroke="#c4b5fd" stroke-width="2"/>
+      <text x="65" y="31" fill="#f0f6fc" font-size="17" font-weight="700">Backend systems</text>
+      <text x="65" y="53" fill="#a78bfa" font-family="ui-monospace, monospace" font-size="12">JAVA · SPRING BOOT · REST</text>
+      <text x="24" y="91" fill="#c9d1d9" font-size="14">Designing clear API contracts and</text><text x="24" y="112" fill="#c9d1d9" font-size="14">maintainable service foundations.</text>
+    </g>
+    <g transform="translate(428 37)">
+      <rect width="344" height="122" rx="12" fill="#161b22" stroke="#30363d"/>
+      <circle cx="35" cy="34" r="17" fill="#60a5fa" fill-opacity=".14"/><path d="M29 35l5 5 9-11" fill="none" stroke="#93c5fd" stroke-width="2"/>
+      <text x="65" y="31" fill="#f0f6fc" font-size="17" font-weight="700">Secure by default</text>
+      <text x="65" y="53" fill="#60a5fa" font-family="ui-monospace, monospace" font-size="12">AUTH · VALIDATION · HASHING</text>
+      <text x="24" y="91" fill="#c9d1d9" font-size="14">Applying security thinking to APIs,</text><text x="24" y="112" fill="#c9d1d9" font-size="14">data handling, and local tooling.</text>
+    </g>
+    <g transform="translate(814 37)">
+      <rect width="344" height="122" rx="12" fill="#161b22" stroke="#30363d"/>
+      <circle cx="35" cy="34" r="17" fill="#34d399" fill-opacity=".13"/><path d="M27 38h16v-9H27zm4-13h8" fill="none" stroke="#6ee7b7" stroke-width="2"/>
+      <text x="65" y="31" fill="#f0f6fc" font-size="17" font-weight="700">Built to ship</text>
+      <text x="65" y="53" fill="#6ee7b7" font-family="ui-monospace, monospace" font-size="12">GIT · DOCKER · CI/CD</text>
+      <text x="24" y="91" fill="#c9d1d9" font-size="14">Learning repeatable workflows for</text><text x="24" y="112" fill="#c9d1d9" font-size="14">reliable builds and deployments.</text>
+    </g>
+  </g>
+</svg>

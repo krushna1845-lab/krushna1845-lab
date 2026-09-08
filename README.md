@@ -25,6 +25,14 @@ My current work combines Java backend development with hands-on security explora
 | **Security mindset** | Authentication, input validation, hash-based detection, file monitoring |
 | **Delivery mindset** | Docker, Kubernetes fundamentals, Git, CI/CD exploration |
 
+<br />
+
+<div align="center">
+
+<img src="./assets/capability-strip.svg" width="1200" alt="Backend systems, secure by default, built to ship" />
+
+</div>
+
 ---
 
 ## Engineering Profile
@@ -100,9 +108,27 @@ OPEN TO    Software Engineering Internships · Java / Backend development roles
 
 ---
 
+## Working Style
+
+<div align="center">
+
+<img src="./assets/engineering-workflow.svg" width="1200" alt="Clarify, build, verify, document" />
+
+</div>
+
+---
+
 ## Current Learning Roadmap
 
 <a id="current-learning-roadmap"></a>
+
+<div align="center">
+
+<img src="./assets/learning-roadmap.svg" width="1200" alt="Secure APIs, Data Layer, Delivery, and Architecture roadmap" />
+
+</div>
+
+<br />
 
 | Priority | Focus | Outcome |
 | :-: | - | - |
